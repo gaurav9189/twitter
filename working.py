@@ -1,3 +1,4 @@
+# Do a yum install for tkinter :)
 from pyspark import SparkConf, SparkContext
 from pyspark.streaming import StreamingContext
 from pyspark.streaming.kafka import KafkaUtils
